@@ -1,0 +1,202 @@
+[
+  {
+    "instruction": "Generate quiz questions from the following text:",
+    "input": "The water cycle, also known as the hydrologic cycle, describes the continuous movement of water on, above, and below the surface of the Earth. Water can change states among liquid, vapor, and ice during this cycle, with these processes happening in the blink of an eye or over millions of years.",
+    "output": "1. What is another name for the water cycle?\n2. What does the water cycle describe?\n3. What are the three states water can change between during the cycle?\n4. How long can water cycle processes take?"
+  },
+  {
+    "instruction": "Create flashcards based on the following content:",
+    "input": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize nutrients from carbon dioxide and water. Photosynthesis in plants generally involves the green pigment chlorophyll and generates oxygen as a byproduct.",
+    "output": "Front: What is photosynthesis?\nBack: The process by which green plants and some other organisms use sunlight to synthesize nutrients from carbon dioxide and water.\n\nFront: What pigment is involved in plant photosynthesis?\nBack: Chlorophyll\n\nFront: What is a byproduct of photosynthesis?\nBack: Oxygen"
+  },
+  {
+    "instruction": "Generate quiz questions from the following text:",
+    "input": "The water cycle, also known as the hydrologic cycle, describes the continuous movement of water on, above, and below the surface of the Earth. Water can change states among liquid, vapor, and ice during this cycle, with these processes happening in the blink of an eye or over millions of years.",
+    "output": "1. What is another name for the water cycle?\n2. What does the water cycle describe?\n3. What are the three states water can change between during the cycle?\n4. How long can water cycle processes take?"
+  },
+  {
+    "instruction": "Create flashcards based on the following content:",
+    "input": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize nutrients from carbon dioxide and water. Photosynthesis in plants generally involves the green pigment chlorophyll and generates oxygen as a byproduct.",
+    "output": "Front: What is photosynthesis?\nBack: The process by which green plants and some other organisms use sunlight to synthesize nutrients from carbon dioxide and water.\n\nFront: What pigment is involved in plant photosynthesis?\nBack: Chlorophyll\n\nFront: What is a byproduct of photosynthesis?\nBack: Oxygen"
+  },
+  {
+    "instruction": "Generate quiz questions from the following text:",
+    "input": "Mitosis is a process of cell division that results in two identical daughter cells from a single parent cell. The process consists of four main phases: prophase, metaphase, anaphase, and telophase, followed by cytokinesis which divides the cytoplasm.",
+    "output": "1. What is mitosis?\n2. How many daughter cells result from mitosis?\n3. Name the four main phases of mitosis.\n4. What is cytokinesis?\n5. What happens during cytokinesis?"
+  },
+  {
+    "instruction": "Create flashcards based on the following content:",
+    "input": "The human skeletal system consists of 206 bones in adults. It provides structure, protection, and support for the body. Bones are connected by joints, which allow for movement, and are attached to muscles via tendons.",
+    "output": "Front: How many bones are in an adult human skeleton?\nBack: 206 bones\n\nFront: What are three functions of the skeletal system?\nBack: Structure, protection, and support for the body\n\nFront: How are bones connected to each other?\nBack: By joints\n\nFront: How are bones attached to muscles?\nBack: Via tendons"
+  },
+  {
+    "instruction": "Generate quiz questions from the following text:",
+    "input": "The American Civil War was fought from 1861 to 1865 between the Northern states (the Union) and the Southern states that had seceded from the Union to form the Confederate States of America. The war began primarily as a result of the controversy over slavery.",
+    "output": "1. When was the American Civil War fought?\n2. Who were the two sides fighting in the American Civil War?\n3. What name did the Southern states give to their new government?\n4. What was the primary cause of the American Civil War?"
+  },
+  {
+    "instruction": "Create flashcards based on the following content:",
+    "input": "The three branches of the United States government are the executive, legislative, and judicial branches. The executive branch is headed by the President, the legislative branch consists of Congress (the Senate and House of Representatives), and the judicial branch is headed by the Supreme Court.",
+    "output": "Front: What are the three branches of the U.S. government?\nBack: Executive, legislative, and judicial\n\nFront: Who heads the executive branch?\nBack: The President\n\nFront: What makes up the legislative branch?\nBack: Congress (the Senate and House of Representatives)\n\nFront: What is at the top of the judicial branch?\nBack: The Supreme Court"
+  },
+  {
+    "instruction": "Generate quiz questions from the following text:",
+    "input": "The periodic table is a tabular arrangement of chemical elements, organized by their atomic number, electron configuration, and recurring chemical properties. Elements are presented in order of increasing atomic number, which is the number of protons in the nucleus.",
+    "output": "1. What is the periodic table?\n2. How are elements organized in the periodic table?\n3. In what order are elements presented in the periodic table?\n4. What does the atomic number represent?"
+  },
+  {
+    "instruction": "Create flashcards based on the following content:",
+    "input": "Newton's three laws of motion describe the relationship between a body and the forces acting upon it. The first law states that an object at rest stays at rest and an object in motion stays in motion unless acted upon by an external force. The second law states that force equals mass times acceleration (F=ma). The third law states that for every action, there is an equal and opposite reaction.",
+    "output": "Front: What do Newton's three laws of motion describe?\nBack: The relationship between a body and the forces acting upon it\n\nFront: What is Newton's first law of motion?\nBack: An object at rest stays at rest and an object in motion stays in motion unless acted upon by an external force\n\nFront: What is Newton's second law of motion?\nBack: Force equals mass times acceleration (F=ma)\n\nFront: What is Newton's third law of motion?\nBack: For every action, there is an equal and opposite reaction"
+  },
+  {
+    "instruction": "Generate quiz questions from the following text:",
+    "input": "Cellular respiration is the process by which cells convert nutrients into ATP, the energy currency of cells. It consists of three main stages: glycolysis, the Krebs cycle, and the electron transport chain. Oxygen is required for aerobic respiration, while anaerobic respiration occurs without oxygen.",
+    "output": "1. What is cellular respiration?\n2. What is ATP described as in the passage?\n3. What are the three main stages of cellular respiration?\n4. What is required for aerobic respiration?\n5. When does anaerobic respiration occur?"
+  },
+  {
+    "instruction": "Create flashcards based on the following content:",
+    "input": "DNA (deoxyribonucleic acid) is the genetic material that carries the instructions for development, functioning, growth, and reproduction in all known organisms. The DNA molecule consists of two strands that form a double helix structure. Each strand is made up of nucleotides containing a sugar, a phosphate group, and one of four bases: adenine (A), thymine (T), guanine (G), or cytosine (C).",
+    "output": "Front: What does DNA stand for?\nBack: Deoxyribonucleic acid\n\nFront: What function does DNA serve in organisms?\nBack: It carries the instructions for development, functioning, growth, and reproduction\n\nFront: What structure does the DNA molecule form?\nBack: A double helix\n\nFront: What are the four bases found in DNA?\nBack: Adenine (A), thymine (T), guanine (G), and cytosine (C)"
+  },
+  {
+    "instruction": "Generate quiz questions from the following text:",
+    "input": "The French Revolution was a period of radical social and political upheaval in France from 1789 to 1799. It was partially inspired by the American Revolution and Enlightenment ideals, including liberty, equality, and fraternity. The revolution ended with Napoleon Bonaparte's rise to power.",
+    "output": "1. When did the French Revolution take place?\n2. What was the French Revolution characterized as?\n3. What two things partially inspired the French Revolution?\n4. What three ideals were associated with the French Revolution?\n5. How did the French Revolution end?"
+  },
+  {
+    "instruction": "Create flashcards based on the following content:",
+    "input": "The four fundamental forces of nature are gravity, electromagnetism, the strong nuclear force, and the weak nuclear force. Gravity is the attractive force between all objects with mass. Electromagnetism governs the interactions between electrically charged particles. The strong nuclear force holds protons and neutrons together in the nucleus. The weak nuclear force is responsible for radioactive decay.",
+    "output": "Front: What are the four fundamental forces of nature?\nBack: Gravity, electromagnetism, the strong nuclear force, and the weak nuclear force\n\nFront: What is gravity?\nBack: The attractive force between all objects with mass\n\nFront: What does electromagnetism govern?\nBack: The interactions between electrically charged particles\n\nFront: What does the strong nuclear force do?\nBack: Holds protons and neutrons together in the nucleus\n\nFront: What is the weak nuclear force responsible for?\nBack: Radioactive decay"
+  },
+  {
+    "instruction": "Generate quiz questions from the following text:",
+    "input": "The Renaissance was a period of European cultural, artistic, political, and scientific rebirth following the Middle Ages. It spanned roughly from the 14th to the 17th century, beginning in Italy and later spreading to the rest of Europe. The Renaissance was characterized by an emphasis on humanism, a revival of classical learning, and revolutionary developments in art and architecture.",
+    "output": "1. What was the Renaissance?\n2. When did the Renaissance period roughly span?\n3. Where did the Renaissance begin?\n4. Where did the Renaissance later spread to?\n5. Name three characteristics of the Renaissance mentioned in the text."
+  },
+  {
+    "instruction": "Create flashcards based on the following content:",
+    "input": "The three states of matter are solid, liquid, and gas. In solids, particles are tightly packed with strong intermolecular forces, giving them a fixed shape and volume. In liquids, particles are close together but can move around each other, giving them a fixed volume but variable shape. In gases, particles are widely spaced with minimal intermolecular forces, allowing them to expand to fill their container.",
+    "output": "Front: What are the three states of matter?\nBack: Solid, liquid, and gas\n\nFront: How are particles arranged in solids?\nBack: Particles are tightly packed with strong intermolecular forces\n\nFront: What physical properties do solids have?\nBack: Fixed shape and fixed volume\n\nFront: How are particles arranged in liquids?\nBack: Particles are close together but can move around each other\n\nFront: What physical properties do liquids have?\nBack: Fixed volume but variable shape\n\nFront: How are particles arranged in gases?\nBack: Particles are widely spaced with minimal intermolecular forces\n\nFront: What physical properties do gases have?\nBack: Expand to fill their container"
+  },
+  {
+    "instruction": "Generate quiz questions from the following text:",
+    "input": "Plate tectonics is the theory that Earth's outer shell is divided into large plates that glide over the mantle. These plates interact at boundaries, resulting in earthquakes, volcanoes, mountain building, and oceanic trench formation. There are three types of plate boundaries: divergent, convergent, and transform.",
+    "output": "1. What is plate tectonics?\n2. What happens when plates interact at boundaries?\n3. Name four geological features that result from plate interactions.\n4. How many types of plate boundaries are there?\n5. What are the three types of plate boundaries?"
+  },
+  {
+    "instruction": "Create flashcards based on the following content:",
+    "input": "The three main macronutrients in nutrition are protein, carbohydrates, and fats. Proteins are made up of amino acids and are essential for building and repairing tissues. Carbohydrates are the body's main source of energy. Fats are important for energy storage, insulation, and protecting organs.",
+    "output": "Front: What are the three main macronutrients?\nBack: Protein, carbohydrates, and fats\n\nFront: What are proteins made up of?\nBack: Amino acids\n\nFront: What is the function of proteins?\nBack: Building and repairing tissues\n\nFront: What is the main function of carbohydrates?\nBack: Providing energy for the body\n\nFront: What are three functions of fats?\nBack: Energy storage, insulation, and protecting organs"
+  },
+  {
+    "instruction": "Generate quiz questions from the following text:",
+    "input": "The Industrial Revolution was a period of major industrialization and innovation that took place during the late 1700s and early 1800s. It began in Great Britain and later spread to other parts of Europe and North America. Key inventions included the steam engine, spinning jenny, and power loom, which transformed manufacturing processes.",
+    "output": "1. What was the Industrial Revolution?\n2. When did the Industrial Revolution take place?\n3. Where did the Industrial Revolution begin?\n4. Where did the Industrial Revolution spread to after Great Britain?\n5. Name three key inventions from the Industrial Revolution mentioned in the text."
+  },
+  {
+    "instruction": "Create flashcards based on the following content:",
+    "input": "The solar system consists of the Sun and everything that orbits around it, including eight planets, dwarf planets, moons, asteroids, and comets. The four inner planets (Mercury, Venus, Earth, and Mars) are rocky, while the four outer planets (Jupiter, Saturn, Uranus, and Neptune) are gas giants, with Jupiter and Saturn composed mainly of hydrogen and helium, and Uranus and Neptune containing more ices.",
+    "output": "Front: What makes up the solar system?\nBack: The Sun and everything that orbits around it, including planets, dwarf planets, moons, asteroids, and comets\n\nFront: How many planets are in our solar system?\nBack: Eight planets\n\nFront: What are the four inner planets?\nBack: Mercury, Venus, Earth, and Mars\n\nFront: What is the composition of the inner planets?\nBack: Rocky\n\nFront: What are the four outer planets?\nBack: Jupiter, Saturn, Uranus, and Neptune\n\nFront: What is the composition of Jupiter and Saturn?\nBack: Mainly hydrogen and helium\n\nFront: What do Uranus and Neptune contain more of compared to Jupiter and Saturn?\nBack: Ices"
+  },
+  {
+    "instruction": "Generate quiz questions from the following text:",
+    "input": "Photosynthesis occurs in two stages: the light-dependent reactions and the Calvin cycle. During the light-dependent reactions, energy from sunlight is captured and converted into ATP and NADPH. In the Calvin cycle, carbon dioxide is incorporated into organic molecules using the ATP and NADPH produced in the light-dependent reactions.",
+    "output": "1. What are the two stages of photosynthesis?\n2. What happens during the light-dependent reactions?\n3. What energy molecules are produced during the light-dependent reactions?\n4. What happens during the Calvin cycle?\n5. What molecules are used in the Calvin cycle?"
+  },
+  {
+    "instruction": "Create flashcards based on the following content:",
+    "input": "The five main components of physical fitness are cardiovascular endurance, muscular strength, muscular endurance, flexibility, and body composition. Cardiovascular endurance measures how well the heart, lungs, and muscles perform during extended periods of exercise. Muscular strength is the amount of force a muscle can produce. Muscular endurance is how long muscles can perform without fatigue. Flexibility is the range of motion in a joint or group of joints. Body composition refers to the ratio of fat mass to fat-free mass in the body.",
+    "output": "Front: What are the five main components of physical fitness?\nBack: Cardiovascular endurance, muscular strength, muscular endurance, flexibility, and body composition\n\nFront: What does cardiovascular endurance measure?\nBack: How well the heart, lungs, and muscles perform during extended periods of exercise\n\nFront: What is muscular strength?\nBack: The amount of force a muscle can produce\n\nFront: What is muscular endurance?\nBack: How long muscles can perform without fatigue\n\nFront: What is flexibility?\nBack: The range of motion in a joint or group of joints\n\nFront: What is body composition?\nBack: The ratio of fat mass to fat-free mass in the body"
+  },
+  {
+    "instruction": "Generate quiz questions from the following text:",
+    "input": "The U.S. Constitution established three branches of government: the legislative, executive, and judicial branches. The legislative branch makes laws, the executive branch enforces laws, and the judicial branch interprets laws. This system creates a balance of power through checks and balances, where each branch limits the powers of the others.",
+    "output": "1. How many branches of government did the U.S. Constitution establish?\n2. What are the three branches of government established by the U.S. Constitution?\n3. What is the function of the legislative branch?\n4. What is the function of the executive branch?\n5. What is the function of the judicial branch?\n6. What system did the separation of powers create?\n7. How does the system of checks and balances work?"
+  },
+  {
+    "instruction": "Create flashcards based on the following content:",
+    "input": "The four main blood types in humans are A, B, AB, and O, determined by the presence or absence of A and B antigens on the surface of red blood cells. Type A blood has A antigens, type B has B antigens, type AB has both A and B antigens, and type O has neither. Additionally, blood is classified as Rh-positive or Rh-negative based on the presence or absence of the Rh factor.",
+    "output": "Front: What are the four main blood types in humans?\nBack: A, B, AB, and O\n\nFront: What determines blood type?\nBack: The presence or absence of A and B antigens on the surface of red blood cells\n\nFront: What antigens does type A blood have?\nBack: A antigens\n\nFront: What antigens does type B blood have?\nBack: B antigens\n\nFront: What antigens does type AB blood have?\nBack: Both A and B antigens\n\nFront: What antigens does type O blood have?\nBack: Neither A nor B antigens\n\nFront: What additional factor is used to classify blood?\nBack: The Rh factor (Rh-positive or Rh-negative)"
+  },
+  {
+    "instruction": "Generate quiz questions from the following text:",
+    "input": "The Cold War was a period of geopolitical tension between the United States and the Soviet Union and their respective allies from 1947 to 1991. It was characterized by proxy wars, an arms race, ideological competition between capitalism and communism, and technological competition, particularly in space exploration.",
+    "output": "1. What was the Cold War?\n2. Which countries were the main adversaries in the Cold War?\n3. When did the Cold War take place?\n4. Name four characteristics of the Cold War mentioned in the text.\n5. What two ideologies competed during the Cold War?"
+  },
+  {
+    "instruction": "Create flashcards based on the following content:",
+    "input": "The human respiratory system consists of the nose, pharynx, larynx, trachea, bronchi, and lungs. Air enters through the nose or mouth, passes through the pharynx and larynx, then travels down the trachea. The trachea divides into two bronchi, which lead to the lungs where gas exchange occurs across the alveoli.",
+    "output": "Front: What are the main components of the human respiratory system?\nBack: Nose, pharynx, larynx, trachea, bronchi, and lungs\n\nFront: Where does air enter the respiratory system?\nBack: Through the nose or mouth\n\nFront: What structures does air pass through after the nose/mouth?\nBack: The pharynx and larynx\n\nFront: What does the trachea divide into?\nBack: Two bronchi\n\nFront: Where does gas exchange occur in the respiratory system?\nBack: Across the alveoli in the lungs"
+  },
+  {
+    "instruction": "Generate quiz questions from the following text:",
+    "input": "The three laws of thermodynamics govern energy and matter. The first law states that energy cannot be created or destroyed, only transferred or converted. The second law states that entropy, or disorder, in an isolated system will always increase over time. The third law states that as temperature approaches absolute zero, the entropy of a system approaches a constant minimum.",
+    "output": "1. What do the three laws of thermodynamics govern?\n2. What does the first law of thermodynamics state about energy?\n3. What happens to energy according to the first law?\n4. What does the second law of thermodynamics state about entropy?\n5. What happens to entropy in an isolated system over time?\n6. What does the third law of thermodynamics state happens as temperature approaches absolute zero?"
+  },
+  {
+    "instruction": "Create flashcards based on the following content:",
+    "input": "The Great Depression was a severe worldwide economic depression that began in the United States in 1929 and lasted until about 1939. It was triggered by the stock market crash of October 1929, known as Black Tuesday. The Depression led to high unemployment, poverty, and social unrest, and was eventually alleviated by government programs and the economic mobilization for World War II.",
+    "output": "Front: What was the Great Depression?\nBack: A severe worldwide economic depression that began in the United States in 1929 and lasted until about 1939\n\nFront: What triggered the Great Depression?\nBack: The stock market crash of October 1929, known as Black Tuesday\n\nFront: What were three consequences of the Great Depression?\nBack: High unemployment, poverty, and social unrest\n\nFront: What factors helped alleviate the Great Depression?\nBack: Government programs and the economic mobilization for World War II"
+  },
+  {
+    "instruction": "Generate quiz questions from the following text:",
+    "input": "DNA replication is the process by which DNA makes a copy of itself during cell division. The double helix unwinds, and each strand serves as a template for the creation of a complementary strand. DNA polymerase adds nucleotides to the growing strand, following the rule of complementary base pairing: A pairs with T, and G pairs with C.",
+    "output": "1. What is DNA replication?\n2. When does DNA replication occur?\n3. What happens to the double helix during replication?\n4. What does each DNA strand serve as?\n5. What enzyme adds nucleotides to the growing strand?\n6. What is the rule of complementary base pairing?\n7. Which nucleotide pairs with adenine (A)?\n8. Which nucleotide pairs with guanine (G)?"
+  },
+  {
+    "instruction": "Create flashcards based on the following content:",
+    "input": "The pH scale measures how acidic or basic a substance is, ranging from 0 to 14. A pH of 7 is neutral, below 7 is acidic, and above 7 is basic (alkaline). The scale is logarithmic, meaning each whole number represents a tenfold change in acidity or alkalinity. Common acids include lemon juice (pH 2) and vinegar (pH 3), while common bases include baking soda (pH 9) and household ammonia (pH 11).",
+    "output": "Front: What does the pH scale measure?\nBack: How acidic or basic a substance is\n\nFront: What is the range of the pH scale?\nBack: 0 to 14\n\nFront: What pH value is considered neutral?\nBack: 7\n\nFront: What pH range indicates an acidic substance?\nBack: Below 7\n\nFront: What pH range indicates a basic (alkaline) substance?\nBack: Above 7\n\nFront: What type of scale is the pH scale?\nBack: Logarithmic\n\nFront: What does a whole number change on the pH scale represent?\nBack: A tenfold change in acidity or alkalinity\n\nFront: Name two common acids and their approximate pH values.\nBack: Lemon juice (pH 2) and vinegar (pH 3)\n\nFront: Name two common bases and their approximate pH values.\nBack: Baking soda (pH 9) and household ammonia (pH 11)"
+  },
+  {
+    "instruction": "Generate quiz questions from the following text:",
+    "input": "A food chain represents the flow of energy and nutrients through an ecosystem, with each organism consuming the one below it. It begins with producers (typically plants), which capture energy from the sun through photosynthesis. Producers are consumed by primary consumers (herbivores), which are then eaten by secondary consumers (carnivores). Some ecosystems have tertiary consumers that eat secondary consumers.",
+    "output": "1. What does a food chain represent?\n2. What are producers in a food chain?\n3. How do producers capture energy?\n4. What are primary consumers?\n5. What do primary consumers eat?\n6. What are secondary consumers?\n7. What do secondary consumers eat?\n8. What are tertiary consumers?\n9. What do tertiary consumers eat?"
+  },
+  {
+    "instruction": "Create flashcards based on the following content:",
+    "input": "The three main types of rock are igneous, sedimentary, and metamorphic. Igneous rocks form when magma or lava cools and solidifies. Sedimentary rocks form when sediments are compressed and cemented together over time. Metamorphic rocks form when existing rocks are subjected to high heat and pressure, causing them to change in composition and appearance.",
+    "output": "Front: What are the three main types of rock?\nBack: Igneous, sedimentary, and metamorphic\n\nFront: How do igneous rocks form?\nBack: When magma or lava cools and solidifies\n\nFront: How do sedimentary rocks form?\nBack: When sediments are compressed and cemented together over time\n\nFront: How do metamorphic rocks form?\nBack: When existing rocks are subjected to high heat and pressure, causing them to change in composition and appearance"
+  },
+  {
+    "instruction": "Generate quiz questions from the following text:",
+    "input": "The Pythagorean theorem states that in a right triangle, the square of the length of the hypotenuse equals the sum of the squares of the lengths of the other two sides. This can be expressed as a² + b² = c², where c is the length of the hypotenuse and a and b are the lengths of the other two sides.",
+    "output": "1. What does the Pythagorean theorem apply to?\n2. According to the Pythagorean theorem, what equals the sum of the squares of the lengths of the two shorter sides?\n3. How can the Pythagorean theorem be expressed as an equation?\n4. In the equation a² + b² = c², what does c represent?\n5. In the equation a² + b² = c², what do a and b represent?"
+  },
+  {
+    "instruction": "Create flashcards based on the following content:",
+    "input": "The three branches of the immune system are innate immunity, adaptive immunity, and passive immunity. Innate immunity provides immediate, non-specific defense against infection. Adaptive immunity develops throughout life as the body is exposed to diseases, providing long-lasting protection. Passive immunity occurs when antibodies are transferred from one individual to another, providing temporary protection.",
+    "output": "Front: What are the three branches of the immune system?\nBack: Innate immunity, adaptive immunity, and passive immunity\n\nFront: What does innate immunity provide?\nBack: Immediate, non-specific defense against infection\n\nFront: How does adaptive immunity develop?\nBack: Throughout life as the body is exposed to diseases\n\nFront: What kind of protection does adaptive immunity provide?\nBack: Long-lasting protection\n\nFront: How does passive immunity occur?\nBack: When antibodies are transferred from one individual to another\n\nFront: What kind of protection does passive immunity provide?\nBack: Temporary protection"
+  },
+  {
+    "instruction": "Generate quiz questions from the following text:",
+    "input": "World War I, also known as the Great War, was a global conflict that lasted from 1914 to 1918. It began after the assassination of Archduke Franz Ferdinand of Austria-Hungary. The conflict involved the Allied Powers (primarily Britain, France, Russia, Italy, and the United States) against the Central Powers (Germany, Austria-Hungary, the Ottoman Empire, and Bulgaria).",
+    "output": "1. What was World War I also known as?\n2. How long did World War I last?\n3. What event triggered the beginning of World War I?\n4. Name four countries that were part of the Allied Powers.\n5. Name four countries that were part of the Central Powers."
+  },
+  {
+    "instruction": "Create flashcards based on the following content:",
+    "input": "In economics, the four factors of production are land, labor, capital, and entrepreneurship. Land includes all natural resources. Labor consists of all human effort used in production. Capital comprises all manufactured aids to production, such as tools, buildings, and machinery. Entrepreneurship involves combining the other factors of production to create goods and services while taking on risk.",
+    "output": "Front: What are the four factors of production in economics?\nBack: Land, labor, capital, and entrepreneurship\n\nFront: What does the factor of 'land' include?\nBack: All natural resources\n\nFront: What does the factor of 'labor' consist of?\nBack: All human effort used in production\n\nFront: What does the factor of 'capital' comprise?\nBack: All manufactured aids to production, such as tools, buildings, and machinery\n\nFront: What does the factor of 'entrepreneurship' involve?\nBack: Combining the other factors of production to create goods and services while taking on risk"
+  },
+  {
+    "instruction": "Generate quiz questions from the following text:",
+    "input": "The three main parts of the brain are the cerebrum, cerebellum, and brainstem. The cerebrum is the largest part and handles conscious thoughts, reasoning, and sensory processing. The cerebellum coordinates movement and balance. The brainstem connects the brain to the spinal cord and controls automatic functions like breathing and heart rate.",
+    "output": "1. What are the three main parts of the brain?\n2. Which is the largest part of the brain?\n3. What functions does the cerebrum handle?\n4. What does the cerebellum coordinate?\n5. What connects the brain to the spinal cord?\n6. What automatic functions does the brainstem control?"
+  },
+  {
+    "instruction": "Create flashcards based on the following content:",
+    "input": "The three laws of motion were developed by Sir Isaac Newton in the 17th century. Newton's First Law states that an object will remain at rest or in uniform motion unless acted upon by an external force. Newton's Second Law states that force equals mass times acceleration (F = ma). Newton's Third Law states that for every action, there is an equal and opposite reaction.",
+    "output": "Front: Who developed the three laws of motion?\nBack: Sir Isaac Newton\n\nFront: When were the three laws of motion developed?\nBack: In the 17th century\n\nFront: What is Newton's First Law of Motion?\nBack: An object will remain at rest or in uniform motion unless acted upon by an external force\n\nFront: What is Newton's Second Law of Motion?\nBack: Force equals mass times acceleration (F = ma)\n\nFront: What is Newton's Third Law of Motion?\nBack: For every action, there is an equal and opposite reaction"
+  },
+  {
+    "instruction": "Generate quiz questions from the following text:",
+    "input": "The water cycle, also known as the hydrologic cycle, describes the continuous movement of water on, above, and below the surface of the Earth. The main processes in the water cycle are evaporation, transpiration, condensation, precipitation, and runoff. Water evaporates from bodies of water, condenses to form clouds, and returns to Earth as precipitation.",
+    "output": "1. What is another name for the water cycle?\n2. What does the water cycle describe?\n3. Name the five main processes in the water cycle mentioned in the text.\n4. Where does water evaporate from?\n5. What does water vapor condense to form?\n6. How does water return to Earth in the water cycle?"
+  },
+  {
+    "instruction": "Create flashcards based on the following content:",
+    "input": "The six simple machines are the lever, wheel and axle, pulley, inclined plane, wedge, and screw. A lever is a rigid bar that pivots around a fixed point called a fulcrum. A wheel and axle consists of a wheel attached to a smaller axle. A pulley is a wheel with a grooved rim for a rope or cable. An inclined plane is a flat surface set at an angle. A wedge is made of two inclined planes back to back. A screw is an inclined plane wrapped around a cylinder.",
+    "output": "Front: What are the six simple machines?\nBack: Lever, wheel and axle, pulley, inclined plane, wedge, and screw\n\nFront: What is a lever?\nBack: A rigid bar that pivots around a fixed point called a fulcrum\n\nFront: What is a wheel and axle?\nBack: A wheel attached to a smaller axle\n\nFront: What is a pulley?\nBack: A wheel with a grooved rim for a rope or cable\n\nFront: What is an inclined plane?\nBack: A flat surface set at an angle\n\nFront: What is a wedge?\nBack: Two inclined planes back to back\n\nFront: What is a screw?\nBack: An inclined plane wrapped around a cylinder"
+  }
+]
