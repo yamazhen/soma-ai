@@ -1,7 +1,6 @@
-
 venv
-educational_content_dataset
 unsloth_compiled_cache
-educational_content_dataset.json
 llama32_educational_finetuned
 educational_model_outputs
+.DS_Store
+.env
